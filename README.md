@@ -75,8 +75,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" title="C++" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" title="Django" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" title="Firebase" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" title="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="Google Cloud Platform" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" title="Java" width="40" height="40"/> 
