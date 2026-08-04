@@ -15,13 +15,15 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/amaanarif/" target="blank"></a> </p>
 
-- 🔭 I’m currently working on **Genome Assembly Scaffolding with AI (COVID-19 Focused)**
+🔭 I’m currently working on **AI-driven Multi-Omics Integration for Colorectal Cancer Biomarker Discovery, Clinical Intelligence Systems (OncoGenRAG), and Computational Drug Discovery using Machine Learning**
 
-- 🌱 I’m currently learning **Advanced Bioinformatics Pipelines, Machine Learning for Multi-omics Data, Cloud Deployment with AWS & Azure**
+- 🌱 I’m currently learning **Single-cell Multi-omics, Explainable AI (XAI), Retrieval-Augmented Generation (RAG), Foundation Models for Biomedicine, and High-Performance Computing for Large-Scale Omics Analysis**
 
-- 👯 I’m looking to collaborate on **Metagenomic Microbiome Explorer**
+- 👯 I’m looking to collaborate on **Cancer Genomics, Microbiome Research, AI for Precision Medicine, Multi-Omics Data Integration, and Open-Source Bioinformatics Projects**
 
-- 🤝 I’m looking for help with **NeuroOmics Atlas for Space Health**
+- 🤝 I’m looking for help with **AI-powered Clinical Decision Support Systems, Space Biology Multi-Omics, and Translational Computational Biology Research**
+
+- 🚀 Current research includes **Multiple Sclerosis Microbiome Meta-analysis, Autism Biomarker Discovery using Explainable Machine Learning, Frontotemporal Dementia Transcriptomics, and Scaffold-based AI Drug Design for Colorectal Cancer**
 
 - 👨‍💻 All of my projects are available at [https://amaanarif25.github.io/amaanarif.portfolio/](https://amaanarif25.github.io/amaanarif.portfolio/)
 
