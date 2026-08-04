@@ -1,25 +1,34 @@
-<!-- Header Section -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Amaan+Arif;AI+%7C+Bioinformatics+%7C+Computational+Biology;Multi-Omics+Analysis+%7C+Machine+Learning" />
-</p>
+<!-- ================= HEADER ================= -->
 
-<h3 align="center">Computational Biology | Python & R Developer | Multi-Omics Analysis</h3>
+<h1 align="center">
+Hi 👋, I'm Amaan Arif
+</h1>
+
+<h3 align="center">
+Computational Biology • Bioinformatics • Artificial Intelligence
+</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amaanarif25&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/amaanarif/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=AI+for+Precision+Medicine;Bioinformatics+%7C+Multi-Omics+Analysis;Computational+Drug+Discovery;Machine+Learning+for+Healthcare;Open+Source+Researcher" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amaanarif25&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
+<a href="https://github.com/amaanarif25">
+<img src="https://komarev.com/ghpvc/?username=amaanarif25&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</a>
+
+<a href="https://github.com/amaanarif25?tab=followers">
+<img src="https://img.shields.io/github/followers/amaanarif25?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/amaanarif25">
+<img src="https://img.shields.io/github/stars/amaanarif25?affiliations=OWNER&style=for-the-badge"/>
+</a>
 </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/amaanarif/" target="blank"></a> </p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amaanarif25&theme=algolia&row=1&column=7&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
 
 - 🔭 I’m currently working on **AI-driven Multi-Omics Integration for Colorectal Cancer Biomarker Discovery, Clinical Intelligence Systems (OncoGenRAG), and Computational Drug Discovery using Machine Learning**
 
