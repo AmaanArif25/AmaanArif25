@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **NeuroOmics Atlas for Space Health**
 
-- 👨‍💻 All of my projects are available at [https://bio-nexus-portfolio.vercel.app/](https://bio-nexus-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://bio-nexus-portfolio.vercel.app/]([https://bio-nexus-portfolio.vercel.app/](https://amaanarif25.github.io/amaanarif.portfolio/))
 
 - 📝 I regularly write articles on [https://medium.com/@amaan.arif.pro](https://medium.com/@amaan.arif.pro)
 
