@@ -35,7 +35,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/amaanarif/](https://www.linkedin.com/in/amaanarif/)
 
-- ⚡ Fun fact **I think I’m funny—but my scripts are even more expressive.**
+⚡ Fun fact: **I enjoy transforming complex biological data into AI-driven solutions for precision medicine and biomedical research.**
 
 <h3 align="left">Connect with Me:</h3>
 
