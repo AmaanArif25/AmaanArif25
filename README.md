@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/amaanarif/" target="blank"></a> </p>
 
-🔭 I’m currently working on **AI-driven Multi-Omics Integration for Colorectal Cancer Biomarker Discovery, Clinical Intelligence Systems (OncoGenRAG), and Computational Drug Discovery using Machine Learning**
+- 🔭 I’m currently working on **AI-driven Multi-Omics Integration for Colorectal Cancer Biomarker Discovery, Clinical Intelligence Systems (OncoGenRAG), and Computational Drug Discovery using Machine Learning**
 
 - 🌱 I’m currently learning **Single-cell Multi-omics, Explainable AI (XAI), Retrieval-Augmented Generation (RAG), Foundation Models for Biomedicine, and High-Performance Computing for Large-Scale Omics Analysis**
 
