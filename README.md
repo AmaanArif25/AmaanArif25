@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amaan+Arif" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🔬 Bioinformatics Analyst | 💻 Python & R Developer | 🤖 AI in Genomics</h3>
+<h3 align="center">Computational Biology | Python & R Developer | Multi-Omics Analysis</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanarif25&label=Profile%20views&color=0e75b6&style=flat" alt="amaanarif25" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **NeuroOmics Atlas for Space Health**
 
-- 👨‍💻 All of my projects are available at [https://bio-nexus-portfolio.vercel.app/]([https://bio-nexus-portfolio.vercel.app/](https://amaanarif25.github.io/amaanarif.portfolio/))
+- 👨‍💻 All of my projects are available at [https://amaanarif25.github.io/amaanarif.portfolio/](https://amaanarif25.github.io/amaanarif.portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@amaan.arif.pro](https://medium.com/@amaan.arif.pro)
 
