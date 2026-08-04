@@ -1,16 +1,22 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Amaan+Arif" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Amaan+Arif;AI+%7C+Bioinformatics+%7C+Computational+Biology;Multi-Omics+Analysis+%7C+Machine+Learning" />
 </p>
 
 <h3 align="center">Computational Biology | Python & R Developer | Multi-Omics Analysis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaanarif25&label=Profile%20views&color=0e75b6&style=flat" alt="amaanarif25" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amaanarif25&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amaanarif25&theme=algolia&margin-w=10" alt="amaanarif25 trophies" />
+  <a href="https://www.linkedin.com/in/amaanarif/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amaanarif25&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/amaanarif/" target="blank"></a> </p>
